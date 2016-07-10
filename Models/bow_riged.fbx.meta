@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 77233bf95beb7e548aad7ecdd8988b52
+timeCreated: 1467533505
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bot.001
+    100004: bot.002
+    100006: bot.003
+    100008: bot.004
+    100010: bot.005
+    100012: bot.006
+    100014: bot.007
+    100016: bot.008
+    100018: bot.009
+    100020: bot.010
+    100022: bot.flex.track
+    100024: bot.IK.target
+    100026: bot.IK.target_end
+    100028: bot.limiter
+    100030: bot.limiter_end
+    100032: //RootNode
+    100034: handle.tY
+    100036: knob - lower
+    100038: knob - upper
+    100040: limb - bottom.002
+    100042: limb - bottom.003
+    100044: riser
+    100046: root
+    100048: socket - bottom
+    100050: socket - top
+    100052: string
+    100054: string.b.1
+    100056: string.b.2
+    100058: string.b.3
+    100060: string.b.4
+    100062: string.b.5
+    100064: string.b.6
+    100066: string.b.7
+    100068: string.b.7_end
+    100070: string.t.1
+    100072: string.t.2
+    100074: string.t.3
+    100076: string.t.4
+    100078: string.t.5
+    100080: string.t.6
+    100082: string.t.7
+    100084: string.t.7_end
+    100086: string_ctrl
+    100088: string_ctrl_end
+    100090: string_pull
+    100092: string_pull_end
+    100094: tip.bot
+    100096: tip.top
+    100098: top.001
+    100100: top.002
+    100102: top.003
+    100104: top.004
+    100106: top.005
+    100108: top.006
+    100110: top.007
+    100112: top.008
+    100114: top.009
+    100116: top.010
+    100118: top.flex.track
+    100120: top.IK.target
+    100122: top.IK.target_end
+    100124: top.limiter
+    100126: top.limiter_end
+    100128: world
+    400000: Armature
+    400002: bot.001
+    400004: bot.002
+    400006: bot.003
+    400008: bot.004
+    400010: bot.005
+    400012: bot.006
+    400014: bot.007
+    400016: bot.008
+    400018: bot.009
+    400020: bot.010
+    400022: bot.flex.track
+    400024: bot.IK.target
+    400026: bot.IK.target_end
+    400028: bot.limiter
+    400030: bot.limiter_end
+    400032: //RootNode
+    400034: handle.tY
+    400036: knob - lower
+    400038: knob - upper
+    400040: limb - bottom.002
+    400042: limb - bottom.003
+    400044: riser
+    400046: root
+    400048: socket - bottom
+    400050: socket - top
+    400052: string
+    400054: string.b.1
+    400056: string.b.2
+    400058: string.b.3
+    400060: string.b.4
+    400062: string.b.5
+    400064: string.b.6
+    400066: string.b.7
+    400068: string.b.7_end
+    400070: string.t.1
+    400072: string.t.2
+    400074: string.t.3
+    400076: string.t.4
+    400078: string.t.5
+    400080: string.t.6
+    400082: string.t.7
+    400084: string.t.7_end
+    400086: string_ctrl
+    400088: string_ctrl_end
+    400090: string_pull
+    400092: string_pull_end
+    400094: tip.bot
+    400096: tip.top
+    400098: top.001
+    400100: top.002
+    400102: top.003
+    400104: top.004
+    400106: top.005
+    400108: top.006
+    400110: top.007
+    400112: top.008
+    400114: top.009
+    400116: top.010
+    400118: top.flex.track
+    400120: top.IK.target
+    400122: top.IK.target_end
+    400124: top.limiter
+    400126: top.limiter_end
+    400128: world
+    2300000: knob - lower
+    2300002: knob - upper
+    2300004: riser
+    2300006: socket - bottom
+    2300008: socket - top
+    3300000: knob - lower
+    3300002: knob - upper
+    3300004: riser
+    3300006: socket - bottom
+    3300008: socket - top
+    4300000: riser
+    4300002: knob - upper
+    4300004: socket - top
+    4300006: knob - lower
+    4300008: socket - bottom
+    4300010: limb - bottom.002
+    4300012: limb - bottom.003
+    4300014: string
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: limb - bottom.002
+    13700002: limb - bottom.003
+    13700004: string
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: a312ebab52aeb26468cab8a0f495303d
+timeCreated: 1467539194
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Bone
+    100006: Bone 1
+    100008: Bone.001
+    100010: Bone.001 1
+    100012: Bone.001_end
+    100014: Bone.001_end 1
+    100016: //RootNode
+    100018: knob - lower
+    100020: knob - upper
+    100022: limb - bottom.002
+    100024: limb - bottom.003
+    100026: riser
+    100028: socket - bottom
+    100030: socket - top
+    400000: Armature
+    400002: Armature.001
+    400004: Bone
+    400006: Bone 1
+    400008: Bone.001
+    400010: Bone.001 1
+    400012: Bone.001_end
+    400014: Bone.001_end 1
+    400016: //RootNode
+    400018: knob - lower
+    400020: knob - upper
+    400022: limb - bottom.002
+    400024: limb - bottom.003
+    400026: riser
+    400028: socket - bottom
+    400030: socket - top
+    2300000: knob - lower
+    2300002: knob - upper
+    2300004: riser
+    2300006: socket - bottom
+    2300008: socket - top
+    3300000: knob - lower
+    3300002: knob - upper
+    3300004: riser
+    3300006: socket - bottom
+    3300008: socket - top
+    4300000: limb - bottom.002
+    4300002: limb - bottom.003
+    4300004: riser
+    4300006: knob - upper
+    4300008: knob - lower
+    4300010: socket - bottom
+    4300012: socket - top
+    7400000: Armature.001|Armature.001Action
+    7400002: Armature.001|ArmatureAction.001
+    7400004: Armature.001|ArmatureAction.002
+    7400006: Armature.001|ArmatureAction.003
+    7400008: Armature.001|ArmatureAction.004
+    7400010: Armature.001|ArmatureAction.005
+    7400012: Armature.001|ArmatureAction.006
+    7400014: Armature.001|CylinderAction
+    7400016: Armature|Armature.001Action
+    7400018: Armature|ArmatureAction.001
+    7400020: Armature|ArmatureAction.002
+    7400022: Armature|ArmatureAction.003
+    7400024: Armature|ArmatureAction.004
+    7400026: Armature|ArmatureAction.005
+    7400028: Armature|ArmatureAction.006
+    7400030: Armature|CylinderAction
+    9500000: //RootNode
+    13700000: limb - bottom.002
+    13700002: limb - bottom.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 940a2425e11446e42a37e99e7e70ac78
+timeCreated: 1467286673
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Creature_WingedHorse_WingedHorse_M2_Geoset_000
+    100002: Creature_WingedHorse_WingedHorse_M2_Geoset_001
+    100004: Creature_WingedHorse_WingedHorse_M2_Geoset_002
+    100006: Creature_WingedHorse_WingedHorse_M2_Geoset_003
+    100008: Creature_WingedHorse_WingedHorse_M2_Geoset_004
+    100010: Creature_WingedHorse_WingedHorse_M2_Geoset_005
+    100012: Creature_WingedHorse_WingedHorse_M2_Geoset_006
+    100014: //RootNode
+    100016: invincible
+    100018: invincible 1
+    100020: WingedHorse.M2
+    100022: WingedHorse.M2_bone_0
+    100024: WingedHorse.M2_bone_1
+    100026: WingedHorse.M2_bone_10
+    100028: WingedHorse.M2_bone_11
+    100030: WingedHorse.M2_bone_12
+    100032: WingedHorse.M2_bone_13
+    100034: WingedHorse.M2_bone_14
+    100036: WingedHorse.M2_bone_15
+    100038: WingedHorse.M2_bone_16
+    100040: WingedHorse.M2_bone_17
+    100042: WingedHorse.M2_bone_18
+    100044: WingedHorse.M2_bone_19
+    100046: WingedHorse.M2_bone_2
+    100048: WingedHorse.M2_bone_20
+    100050: WingedHorse.M2_bone_21
+    100052: WingedHorse.M2_bone_22
+    100054: WingedHorse.M2_bone_23
+    100056: WingedHorse.M2_bone_24
+    100058: WingedHorse.M2_bone_25
+    100060: WingedHorse.M2_bone_26
+    100062: WingedHorse.M2_bone_27
+    100064: WingedHorse.M2_bone_28
+    100066: WingedHorse.M2_bone_29
+    100068: WingedHorse.M2_bone_3
+    100070: WingedHorse.M2_bone_30
+    100072: WingedHorse.M2_bone_31
+    100074: WingedHorse.M2_bone_32
+    100076: WingedHorse.M2_bone_33
+    100078: WingedHorse.M2_bone_34
+    100080: WingedHorse.M2_bone_35
+    100082: WingedHorse.M2_bone_36
+    100084: WingedHorse.M2_bone_37
+    100086: WingedHorse.M2_bone_38
+    100088: WingedHorse.M2_bone_39
+    100090: WingedHorse.M2_bone_4
+    100092: WingedHorse.M2_bone_40
+    100094: WingedHorse.M2_bone_41
+    100096: WingedHorse.M2_bone_42
+    100098: WingedHorse.M2_bone_43
+    100100: WingedHorse.M2_bone_44
+    100102: WingedHorse.M2_bone_45
+    100104: WingedHorse.M2_bone_46
+    100106: WingedHorse.M2_bone_47
+    100108: WingedHorse.M2_bone_48
+    100110: WingedHorse.M2_bone_49
+    100112: WingedHorse.M2_bone_5
+    100114: WingedHorse.M2_bone_6
+    100116: WingedHorse.M2_bone_7
+    100118: WingedHorse.M2_bone_72
+    100120: WingedHorse.M2_bone_74
+    100122: WingedHorse.M2_bone_75
+    100124: WingedHorse.M2_bone_8
+    100126: WingedHorse.M2_bone_80
+    100128: WingedHorse.M2_bone_81
+    100130: WingedHorse.M2_bone_82
+    100132: WingedHorse.M2_bone_89
+    100134: WingedHorse.M2_bone_9
+    100136: WingedHorse.M2_bone_90
+    400000: Creature_WingedHorse_WingedHorse_M2_Geoset_000
+    400002: Creature_WingedHorse_WingedHorse_M2_Geoset_001
+    400004: Creature_WingedHorse_WingedHorse_M2_Geoset_002
+    400006: Creature_WingedHorse_WingedHorse_M2_Geoset_003
+    400008: Creature_WingedHorse_WingedHorse_M2_Geoset_004
+    400010: Creature_WingedHorse_WingedHorse_M2_Geoset_005
+    400012: Creature_WingedHorse_WingedHorse_M2_Geoset_006
+    400014: //RootNode
+    400016: invincible
+    400018: invincible 1
+    400020: WingedHorse.M2
+    400022: WingedHorse.M2_bone_0
+    400024: WingedHorse.M2_bone_1
+    400026: WingedHorse.M2_bone_10
+    400028: WingedHorse.M2_bone_11
+    400030: WingedHorse.M2_bone_12
+    400032: WingedHorse.M2_bone_13
+    400034: WingedHorse.M2_bone_14
+    400036: WingedHorse.M2_bone_15
+    400038: WingedHorse.M2_bone_16
+    400040: WingedHorse.M2_bone_17
+    400042: WingedHorse.M2_bone_18
+    400044: WingedHorse.M2_bone_19
+    400046: WingedHorse.M2_bone_2
+    400048: WingedHorse.M2_bone_20
+    400050: WingedHorse.M2_bone_21
+    400052: WingedHorse.M2_bone_22
+    400054: WingedHorse.M2_bone_23
+    400056: WingedHorse.M2_bone_24
+    400058: WingedHorse.M2_bone_25
+    400060: WingedHorse.M2_bone_26
+    400062: WingedHorse.M2_bone_27
+    400064: WingedHorse.M2_bone_28
+    400066: WingedHorse.M2_bone_29
+    400068: WingedHorse.M2_bone_3
+    400070: WingedHorse.M2_bone_30
+    400072: WingedHorse.M2_bone_31
+    400074: WingedHorse.M2_bone_32
+    400076: WingedHorse.M2_bone_33
+    400078: WingedHorse.M2_bone_34
+    400080: WingedHorse.M2_bone_35
+    400082: WingedHorse.M2_bone_36
+    400084: WingedHorse.M2_bone_37
+    400086: WingedHorse.M2_bone_38
+    400088: WingedHorse.M2_bone_39
+    400090: WingedHorse.M2_bone_4
+    400092: WingedHorse.M2_bone_40
+    400094: WingedHorse.M2_bone_41
+    400096: WingedHorse.M2_bone_42
+    400098: WingedHorse.M2_bone_43
+    400100: WingedHorse.M2_bone_44
+    400102: WingedHorse.M2_bone_45
+    400104: WingedHorse.M2_bone_46
+    400106: WingedHorse.M2_bone_47
+    400108: WingedHorse.M2_bone_48
+    400110: WingedHorse.M2_bone_49
+    400112: WingedHorse.M2_bone_5
+    400114: WingedHorse.M2_bone_6
+    400116: WingedHorse.M2_bone_7
+    400118: WingedHorse.M2_bone_72
+    400120: WingedHorse.M2_bone_74
+    400122: WingedHorse.M2_bone_75
+    400124: WingedHorse.M2_bone_8
+    400126: WingedHorse.M2_bone_80
+    400128: WingedHorse.M2_bone_81
+    400130: WingedHorse.M2_bone_82
+    400132: WingedHorse.M2_bone_89
+    400134: WingedHorse.M2_bone_9
+    400136: WingedHorse.M2_bone_90
+    2300000: Creature_WingedHorse_WingedHorse_M2_Geoset_000
+    2300002: Creature_WingedHorse_WingedHorse_M2_Geoset_001
+    2300004: Creature_WingedHorse_WingedHorse_M2_Geoset_002
+    2300006: Creature_WingedHorse_WingedHorse_M2_Geoset_003
+    2300008: Creature_WingedHorse_WingedHorse_M2_Geoset_004
+    2300010: Creature_WingedHorse_WingedHorse_M2_Geoset_005
+    2300012: Creature_WingedHorse_WingedHorse_M2_Geoset_006
+    3300000: Creature_WingedHorse_WingedHorse_M2_Geoset_000
+    3300002: Creature_WingedHorse_WingedHorse_M2_Geoset_001
+    3300004: Creature_WingedHorse_WingedHorse_M2_Geoset_002
+    3300006: Creature_WingedHorse_WingedHorse_M2_Geoset_003
+    3300008: Creature_WingedHorse_WingedHorse_M2_Geoset_004
+    3300010: Creature_WingedHorse_WingedHorse_M2_Geoset_005
+    3300012: Creature_WingedHorse_WingedHorse_M2_Geoset_006
+    4300000: Creature_WingedHorse_WingedHorse_M2_Geoset_000
+    4300002: Creature_WingedHorse_WingedHorse_M2_Geoset_001
+    4300004: Creature_WingedHorse_WingedHorse_M2_Geoset_002
+    4300006: Creature_WingedHorse_WingedHorse_M2_Geoset_003
+    4300008: Creature_WingedHorse_WingedHorse_M2_Geoset_004
+    4300010: Creature_WingedHorse_WingedHorse_M2_Geoset_005
+    4300012: Creature_WingedHorse_WingedHorse_M2_Geoset_006
+    4300014: WingedHorse.M2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: WingedHorse.M2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

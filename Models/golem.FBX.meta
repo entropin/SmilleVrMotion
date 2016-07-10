@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 898955aed9c38d542b8ca9ab93940bbd
+timeCreated: 1467286672
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: golem
+    100004: infernal003
+    100006: infernal2
+    100008: infernal2_bone_101
+    100010: infernal2_bone_103
+    100012: infernal2_bone_104
+    100014: infernal2_bone_105
+    100016: infernal2_bone_106
+    100018: infernal2_bone_107
+    100020: infernal2_bone_108
+    100022: infernal2_bone_109
+    100024: infernal2_bone_40
+    100026: infernal2_bone_41
+    100028: infernal2_bone_42
+    100030: infernal2_bone_43
+    100032: infernal2_bone_44
+    100034: infernal2_bone_45
+    100036: infernal2_bone_46
+    100038: infernal2_bone_47
+    100040: infernal2_bone_48
+    100042: infernal2_bone_49
+    100044: infernal2_bone_50
+    100046: infernal2_bone_51
+    100048: infernal2_bone_52
+    100050: infernal2_bone_53
+    100052: infernal2_bone_54
+    100054: infernal2_bone_55
+    100056: infernal2_bone_56
+    100058: infernal2_bone_57
+    100060: infernal2_bone_58
+    100062: infernal2_bone_59
+    100064: infernal2_bone_60
+    100066: infernal2_bone_61
+    100068: infernal2_bone_62
+    100070: infernal2_bone_63
+    100072: infernal2_bone_64
+    100074: infernal2_bone_65
+    100076: infernal2_bone_66
+    100078: infernal2_bone_67
+    100080: infernal2_bone_68
+    100082: infernal2_bone_83
+    100084: infernal2_bone_92
+    100086: infernal2_bone_98
+    100088: infernal2_bone_99
+    400000: //RootNode
+    400002: golem
+    400004: infernal003
+    400006: infernal2
+    400008: infernal2_bone_101
+    400010: infernal2_bone_103
+    400012: infernal2_bone_104
+    400014: infernal2_bone_105
+    400016: infernal2_bone_106
+    400018: infernal2_bone_107
+    400020: infernal2_bone_108
+    400022: infernal2_bone_109
+    400024: infernal2_bone_40
+    400026: infernal2_bone_41
+    400028: infernal2_bone_42
+    400030: infernal2_bone_43
+    400032: infernal2_bone_44
+    400034: infernal2_bone_45
+    400036: infernal2_bone_46
+    400038: infernal2_bone_47
+    400040: infernal2_bone_48
+    400042: infernal2_bone_49
+    400044: infernal2_bone_50
+    400046: infernal2_bone_51
+    400048: infernal2_bone_52
+    400050: infernal2_bone_53
+    400052: infernal2_bone_54
+    400054: infernal2_bone_55
+    400056: infernal2_bone_56
+    400058: infernal2_bone_57
+    400060: infernal2_bone_58
+    400062: infernal2_bone_59
+    400064: infernal2_bone_60
+    400066: infernal2_bone_61
+    400068: infernal2_bone_62
+    400070: infernal2_bone_63
+    400072: infernal2_bone_64
+    400074: infernal2_bone_65
+    400076: infernal2_bone_66
+    400078: infernal2_bone_67
+    400080: infernal2_bone_68
+    400082: infernal2_bone_83
+    400084: infernal2_bone_92
+    400086: infernal2_bone_98
+    400088: infernal2_bone_99
+    2300000: infernal003
+    3300000: infernal003
+    4300000: infernal003
+    4300002: infernal2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: infernal2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
